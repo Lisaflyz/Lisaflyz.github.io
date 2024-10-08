@@ -110,7 +110,7 @@ html p {
 .personal, item {
     display: inline-block;
 }
-.ensprience .item, .skill .item {
+.experience .item, .skill .item {
     padding-left: 10px;
 }
 .item ul {
@@ -141,7 +141,7 @@ html p {
     border-radius: 2px;
     vertical-align: top;
 }
-.ensprience, .skill {
+.experience, .skill {
     border-left: 1px solid #9DAFBE;
 }
 section .title {
